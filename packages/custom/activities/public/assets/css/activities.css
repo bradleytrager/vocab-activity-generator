@@ -1,0 +1,17 @@
+.wordBank {
+	border: 2px solid black;
+	padding: 20px;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.wordBank span {
+	margin: 20px;
+	font-size: large;
+}
+
+.vocabImage img {
+	border: 2px solid black;
+	width: 200px;
+	height: auto;
+}
